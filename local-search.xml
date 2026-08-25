@@ -8,7 +8,7 @@
     <link href="/small-moon-s-tricks/"/>
     <url>/small-moon-s-tricks/</url>
     
-    <content type="html"><![CDATA[<p>hello</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="差分"><a class="markdownIt-Anchor" href="#差分"></a> 差分</h2><ul><li>在一些对相邻元素进行较复杂、会互相影响的操作时，可以思考使用差分（思维来源：相邻的修改 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>⇒</mo></mrow><annotation encoding="application/x-tex">\Rightarrow</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mrel">⇒</span></span></span></span> 差分），例题<a href="https://codeforces.com/problemset/problem/2252/D">CF2252D</a></li></ul>]]></content>
     
     
     
